@@ -1,20 +1,22 @@
 # UDYOG SAARTHI APP
 
-## Introduction
-
-Welcome to UDYOG SAARTHI APP, a project developed as part of the Smart India Hackathon 2023. This web application is built using React and Vite for the frontend, and it leverages Appwrite as the backend solution. UDYOG SAARTHI APP aims to streamline and enhance the user experience for individuals involved in the industrial sector by providing a comprehensive platform for managing various aspects of their business.
+Welcome to UDYOG SAARTHI APP, a project developed for the Smart India Hackathon 2023. This application, built with React, Vite, and Appwrite, is designed to address the employment challenges faced by Persons with Disabilities (PwDs) in our country.
 
 ## Features
 
-- **User Authentication:** Secure user authentication is implemented using Appwrite, ensuring that only authorized users can access the platform.
+- **Learning Profile:** Candidates can create a comprehensive learning profile, including UDID, literacy, skills training, address, and functional difficulties faced. This profile also covers assistive devices, human assistance requirements, and aspirations.
 
-- **Dashboard:** A user-friendly dashboard provides an overview of key metrics and insights, offering a quick glance at the current status of the user's industrial activities.
+- **Job Notifications:** Receive notifications about job opportunities, both in the government and private sectors, in line with the 4% reservation for PwDs in Government and PSU Jobs.
 
-- **Task Management:** The app includes a robust task management system, allowing users to create, assign, and track tasks efficiently.
+- **Important Dates:** Stay informed about crucial dates related to job applications, examinations, and interviews.
 
-- **Document Management:** UDYOG SAARTHI APP facilitates the seamless organization and storage of essential documents related to industrial processes and compliance.
+- **Educational Support:** Access model question papers, practice materials, and mock tests to prepare for qualifying examinations.
 
-- **Collaboration:** Users can collaborate within the platform, fostering communication and coordination among team members.
+- **Application Tracking:** Track the status of job applications, examinations attended, interviews qualified, and placement details.
+
+- **Workplace Support:** Request assistance for workplace adaptations or reasonable accommodations to sustain employment.
+
+- **Skills Training Programs:** Receive notifications about skills training programs offered by the Department of Adult Independent Living (DAIL), NIEPMD, and other related organizations.
 
 ## Technologies Used
 
