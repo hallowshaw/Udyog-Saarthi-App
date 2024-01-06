@@ -32,7 +32,7 @@ To get started with UDYOG SAARTHI APP, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/udyog-saarthi-app.git
+   git clone https://github.com/hallowshaw/udyog-saarthi-app.git
    cd udyog-saarthi-app
    ```
 
@@ -69,7 +69,7 @@ Before you start contributing, please read our [Code of Conduct](CODE_OF_CONDUCT
 2. Clone the forked repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/udyog-saarthi-app.git
+    git clone https://github.com/hallowshaw/udyog-saarthi-app.git
     ```
 
 3. Create a new branch for your changes.
@@ -103,7 +103,7 @@ Before you start contributing, please read our [Code of Conduct](CODE_OF_CONDUCT
 
 ## Bug Reports and Feature Requests
 
-If you find a bug or have a feature request, please [open an issue](https://github.com/your-username/udyog-saarthi-app/issues) on our Issue Tracker. Provide detailed information and, if applicable, steps to reproduce the issue.
+If you find a bug or have a feature request, please [open an issue](https://github.com/hallowshaw/udyog-saarthi-app/issues) on our Issue Tracker. Provide detailed information and, if applicable, steps to reproduce the issue.
 
 ## Coding Standards
 
